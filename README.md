@@ -1,2 +1,2 @@
-# deep-learning-tutorials
+# Deep Learning Tutorials
 Simple Deep Learning Tutorials
