@@ -171,4 +171,7 @@ cython_debug/
 .pypirc
 
 # training corpus arrows
-.arrow
+*.arrow
+
+# transformer training data
+5 Transformer/data/wiki_data/
